@@ -12,4 +12,7 @@ console.log(moment().format('dddd'));
 
 // Interpolate variable bindings
 var name = "Bob", time = "today";
-console.log(`Hello ${name}, how are you ${time}?`)
+console.log(`Hello ${name}, how are you ${time}?`);
+
+console.log('testing webpack-dev-server');
+console.log('testing webpack-dev-server-2');
